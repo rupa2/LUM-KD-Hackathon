@@ -1,0 +1,1 @@
+helm install mjenkins -f ./jcasc-values.yaml  jenkins-jcasc/jenkins
